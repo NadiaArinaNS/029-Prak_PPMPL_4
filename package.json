@@ -1,0 +1,17 @@
+{
+  "name": "ppmpl4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^4.1.0",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
